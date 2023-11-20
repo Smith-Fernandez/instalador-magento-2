@@ -1,0 +1,1 @@
+# instalador-magento-2
